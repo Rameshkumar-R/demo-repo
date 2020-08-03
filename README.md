@@ -1,3 +1,9 @@
 # DEMO-REPO
 
-This is DEMO-REPO for Learning the GIT and GITHUB!!!
+Purpose: This is DEMO-REPO for Learning the GIT and GITHUB!!!
+
+## Author
+
+Rameshkumar
+
+### Thank You
