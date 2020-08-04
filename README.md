@@ -11,6 +11,6 @@ Rameshkumar
 ## Updated by devloper 3
 
 ##Hello this feature branch
-1. open the index.html in browser
+1. _open the index.html in browser_
 
 ### Thank You
